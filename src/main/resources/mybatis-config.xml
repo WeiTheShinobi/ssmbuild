@@ -8,4 +8,8 @@
         <package name="com.weitheshinobi.pojo"/>
     </typeAliases>
 
+    <mappers>
+        <mapper class="com.weitheshinobi.dao.BookMapper"/>
+    </mappers>
+
 </configuration>
