@@ -5,5 +5,4 @@
 - Spring 5
 - SpringMVC
 - MyBatis
-- MySQL
 
