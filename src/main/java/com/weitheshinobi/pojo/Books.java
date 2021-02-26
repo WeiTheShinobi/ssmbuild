@@ -1,4 +1,4 @@
-package com.weitheshinobi.dao;
+package com.weitheshinobi.pojo;
 
 public class Books {
     private int bookID;
